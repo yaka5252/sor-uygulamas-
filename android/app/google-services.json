@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "677987214244",
+    "project_id": "halihanem-2",
+    "storage_bucket": "halihanem-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677987214244:android:cb97f5532ce56242205731",
+        "android_client_info": {
+          "package_name": "com.example.flutter_soru_cozum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677987214244-omj0a63b5lgltdm7gilq50jcmvq69rmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlcCD6E7b3AeZktiIXAjPPI1a5yCRdaHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677987214244-omj0a63b5lgltdm7gilq50jcmvq69rmk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "677987214244-fsbkldvht8rt6g6s33bjjmt6t1gboqsh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.halHanem2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677987214244:android:8effe569b5b989c2205731",
+        "android_client_info": {
+          "package_name": "com.example.hal_hanem_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677987214244-vhoucoup4a804796buern42c24ft6f71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hal_hanem_2",
+            "certificate_hash": "5278d4a054486cc7536339012fb2280251b8486b"
+          }
+        },
+        {
+          "client_id": "677987214244-omj0a63b5lgltdm7gilq50jcmvq69rmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlcCD6E7b3AeZktiIXAjPPI1a5yCRdaHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677987214244-omj0a63b5lgltdm7gilq50jcmvq69rmk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "677987214244-fsbkldvht8rt6g6s33bjjmt6t1gboqsh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.halHanem2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
