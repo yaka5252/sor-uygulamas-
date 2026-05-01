@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+    <key>NSCameraUsageDescription</key>
+    <string>Profil fotoğrafı çekmek için kameranıza erişmemiz gerekiyor.</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Fotoğraf seçmek için galerinize erişmemiz gerekiyor.</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
@@ -45,5 +49,17 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+<key>CFBundleURLTypes</key>
+    <array>
+        <dict>
+            <key>CFBundleTypeRole</key>
+            <string>Editor</string>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <!-- Kopyaladığın o uzun com.googleusercontent... metnini buraya yapıştır -->
+	        <string>com.googleusercontent.apps.677987214244-p8ctbgo646m9l9t5bth7hqkndb33482t</string>
+            </array>
+        </dict>
+    </array>
 </dict>
 </plist>
