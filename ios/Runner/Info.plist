@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>GIDClientID</key>
+	<string>677987214244-p8ctbgo646m9l9t5bth7hqkndb33482t.apps.googleusercontent.com</string>
     <key>NSCameraUsageDescription</key>
     <string>Profil fotoğrafı çekmek için kameranıza erişmemiz gerekiyor.</string>
     <key>NSPhotoLibraryUsageDescription</key>
